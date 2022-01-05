@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>champ</title>
+    <link>https://champgy.github.io/notes/</link>
+    <description>Recent content on champ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://champgy.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K8s</title>
+      <link>https://champgy.github.io/notes/blog/k8s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://champgy.github.io/notes/blog/k8s/</guid>
+      <description> 进行中
+ </description>
+    </item>
+    
+    <item>
+      <title>P4lang</title>
+      <link>https://champgy.github.io/notes/blog/p4lang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://champgy.github.io/notes/blog/p4lang/</guid>
+      <description> 已完成 p4lang
+ </description>
+    </item>
+    
+  </channel>
+</rss>
